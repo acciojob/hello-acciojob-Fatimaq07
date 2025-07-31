@@ -1,13 +1,13 @@
 
-main.accio#job {
-  width: 150px;
+.accio {
+  width: 150;
   height: 150px;
-  background-color: rgb(0, 0, 0);
+  background-color: #000000;
 }
 
 
-p.hello-accio {
-  color: rgb(255, 255, 255);
+.hello-accio {
+  color: #ffffff;
   margin-left: 32px;
   padding: 10px;
 }
